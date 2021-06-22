@@ -1,2 +1,8 @@
 # TicTacToe
-Simple console game written in C#
+🇷🇺
+
+Крестики-нолики, написанные на C#
+
+🇺🇸
+
+TicTacToe game written in C#
